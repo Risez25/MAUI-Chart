@@ -5,17 +5,16 @@ A Mobile Angular Chart Template
 ## Usage
 download this file or using git clone
 #### MAUI CLI
+go to the directory
 
-cd Mobile-Angular-UI-MAUI--master
+    cd Mobile-Angular-UI-MAUI--master
 
-    to rebuild the file directory
+to rebuild the file directory
 
-gulp build
+    gulp build
 
-    to connect to the serve
+to connect to the serve
 
-gulp connect
-
-    phonegap template list
+    gulp connect
 
 Then Open your browser and paste http://localhost:8000/ into your browser url
