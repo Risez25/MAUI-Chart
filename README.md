@@ -1,13 +1,13 @@
-# Mobile Angular PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
+# Mobile Angular PhoneGap Template 
 
-A Mobile Angular Chart Template
+A Mobile Angular UI Chart Example
 
 ## Usage
 download this file or using git clone
 #### MAUI CLI
 go to the directory
 
-    cd Mobile-Angular-UI-MAUI--master
+    cd MAUI-Chart-master
 
 to rebuild the file directory
 
